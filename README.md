@@ -5,7 +5,7 @@
 <li>JavaSript</li>
 <li>HTML</li>
 <li>CSS</li>
-
+<hr>
 
 <p>Essa aplicação foi feita com intuito de aprender a manusear alguns métodos de array. </p>
 
