@@ -7,7 +7,7 @@
 <li>CSS</li>
 <hr>
 
-<p>Essa aplicação foi feita com intuito de aprender a manusear alguns métodos de array. </p>
+<p>Essa aplicação foi feita com intuito de aprender a manusear alguns métodos de array </p>
 
 
 ## Entre em contato comigo.
